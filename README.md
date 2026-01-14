@@ -1,6 +1,6 @@
 ## RAG Systems (Retrieval-Augmented Generation)
 
-- Thanks to @JaskiratSingh for the session on RAG systems and the hands on coding for the Winter School Python with Gen AI_Day-2_Rag-agent Colab notebook.
+- Thanks to @https://github.com/Jaskirat-singh04 for the session on RAG systems and the hands on coding for the Winter School Python with Gen AI_Day-2_Rag-agent Colab notebook.
 
 ### RAG is a framework and not an architecutre
 
