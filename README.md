@@ -79,4 +79,75 @@
 
 ## Along with building these apps we also learnt a lot of tools that exist and how they can be used.
 
-## We also tried generating professional-grade images with a specific output using JSON schemas in Google's Gemini Nano Banana Pro.
+## We also tried generating professional-grade images with a specific output using JSON schemas in Google's Gemini Nano Banana Pro. The prompt used was as follows: -
+
+- JSON Schema -
+  {
+  "task": "image_generation",
+  "model": "gemini-nano-banana",
+  "input": {
+  "reference_images": {
+  "front_face": "USER_PROVIDED_IMAGE_FRONT",
+  "left_profile": "USER_PROVIDED_IMAGE_LEFT",
+  "right_profile": "USER_PROVIDED_IMAGE_RIGHT"
+  },
+  "prompt": {
+  "description": "Create a hyper-realistic professional LinkedIn visual portrait using the provided reference images. Preserve 100% of the subject’s real facial attributes with absolute identity consistency.",
+  "identity_preservation": {
+  "face_structure": "exact",
+  "skin_tone": "exact",
+  "facial_symmetry": "exact",
+  "eye_shape_color_position": "exact",
+  "nose_shape_bridge_width": "exact",
+  "lip_shape_volume": "exact",
+  "jawline_chin": "exact",
+  "ear_shape_position": "exact",
+  "hairline_density_texture": "exact",
+  "age": "unchanged",
+  "gender_features": "unchanged",
+  "no_face_morphing": true,
+  "no_ai_face_averaging": true
+  },
+  "pose_and_expression": {
+  "head_position": "slight professional angle",
+  "eye_direction": "looking directly at the camera",
+  "expression": "confident, calm, approachable",
+  "mouth": "natural subtle smile"
+  },
+  "attire_and_grooming": {
+  "outfit": "tailored dark navy or charcoal professional suit",
+  "shirt": "crisp white formal shirt",
+  "tie": "minimalist solid-color tie",
+  "fit": "executive-level, well-fitted",
+  "grooming": "clean, professional, natural"
+  },
+  "lighting_and_camera": {
+  "lighting": "soft studio lighting, even facial illumination, no harsh shadows",
+  "camera": "85mm portrait lens look",
+  "depth_of_field": "shallow background blur (bokeh)",
+  "resolution": "ultra-high resolution",
+  "sharpness": "high facial detail, natural skin texture"
+  },
+  "background": {
+  "type": "neutral professional",
+  "style": "soft gradient or modern corporate backdrop",
+  "distraction_free": true
+  },
+  "quality_constraints": {
+  "photorealism": "maximum",
+  "skin_texture": "natural pores, no over-smoothing",
+  "no_cartoon_effect": true,
+  "no_art_style": true,
+  "no_unreal_features": true,
+  "linkedin_ready": true
+  },
+  "final_output": {
+  "framing": "head and shoulders",
+  "aspect_ratio": "1:1",
+  "use_case": "LinkedIn profile picture",
+  "professional_score": "very high",
+  "confidence_level": "executive presence"
+  }
+  }
+  }
+  }
