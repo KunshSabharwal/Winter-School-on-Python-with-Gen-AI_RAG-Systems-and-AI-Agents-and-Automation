@@ -51,3 +51,23 @@
 ### AI Agents are hence more riskier than normal chatbot agents as they can act and trigger systems that cause a real-world impact.
 
 ### Guardrails must be designed to control tool behaviour by permission scoping and auditing tool outputs.
+
+## Apps that we built in the Google AI Studio ->
+
+### Celestial Hands: 3D Particle Interaction
+
+- Prompt given in Google AI Studio -
+
+- Create a real time interaction 3D particle system with Three.js
+- Requirements: -
+  - Detect both hands through the camera -> control particle scaling + expansion by hand tension and closing
+  - Include a panel to switch templates: hearts/flowers/saturn/fireworks
+  - Add a color selector to change the particle colors
+  - Particles must react instantly to gesture changes
+  - UI should be simple, modern and clean.
+
+### Conversational AI app for any task (E-Commerce App in this case)
+
+- Prompt given in Google AI Studio -
+
+- Create a conversational voice app for an ecommerce store which takes the order information from the customer and checks the order in the inventory an responds back. It should be multi-lingual an support majority of the Indian languages
