@@ -39,7 +39,7 @@
   - Few-Shot - Provide some examples.
   - Structured - Define output format (mostly done in JSON), forcing the AI to be precise.
 
-## We can create AI songs on suno.ai
+### We can create AI songs on suno.ai
 
 ## Threats to AI Agents
 
@@ -78,3 +78,5 @@
 - The created app with all details present on Google Drive and Google AI Studio.
 
 ## Along with building these apps we also learnt a lot of tools that exist and how they can be used.
+
+## We also tried generating professional-grade images with a specific output using JSON schemas in Google's Gemini Nano Banana Pro.
