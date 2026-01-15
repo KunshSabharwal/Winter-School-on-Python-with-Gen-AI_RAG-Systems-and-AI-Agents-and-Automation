@@ -82,6 +82,7 @@
 ## We also tried generating professional-grade images with a specific output using JSON schemas in Google's Gemini Nano Banana Pro. The prompt used was as follows: -
 
 - JSON Schema -
+  '''json
   {
   "task": "image_generation",
   "model": "gemini-nano-banana",
@@ -151,3 +152,4 @@
   }
   }
   }
+  '''
