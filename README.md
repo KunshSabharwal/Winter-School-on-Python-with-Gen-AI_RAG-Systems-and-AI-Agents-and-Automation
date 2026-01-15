@@ -60,14 +60,21 @@
 
 - Create a real time interaction 3D particle system with Three.js
 - Requirements: -
+
   - Detect both hands through the camera -> control particle scaling + expansion by hand tension and closing
   - Include a panel to switch templates: hearts/flowers/saturn/fireworks
   - Add a color selector to change the particle colors
   - Particles must react instantly to gesture changes
   - UI should be simple, modern and clean.
 
+- The created app with all details present on Google Drive and Google AI Studio.
+
 ### Conversational AI app for any task (E-Commerce App in this case)
 
 - Prompt given in Google AI Studio -
 
 - Create a conversational voice app for an ecommerce store which takes the order information from the customer and checks the order in the inventory an responds back. It should be multi-lingual an support majority of the Indian languages
+
+- The created app with all details present on Google Drive and Google AI Studio.
+
+## Along with building these apps we also learnt a lot of tools that exist and how they can be used.
