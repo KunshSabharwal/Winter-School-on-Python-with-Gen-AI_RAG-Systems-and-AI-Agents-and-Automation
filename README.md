@@ -77,7 +77,7 @@
 
 - The created app with all details present on Google Drive and Google AI Studio.
 
-## Along with building these apps we also learnt a lot of tools that exist and how they can be used.
+## Along with building these apps we also learnt a lot of tools that exist and how they can be used. (kimi.ai, Gamma.app to create a personal website portfolio by uploading your Linkedin profile as a PDF, zapier.com to create websites where we can get notifications of when anyone creates an account on our website, make.com for AI automation tasks)
 
 ## We also tried generating professional-grade images with a specific output using JSON schemas in Google's Gemini Nano Banana Pro. The prompt used was as follows: -
 
