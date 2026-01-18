@@ -11,9 +11,7 @@
 - User query, relevant chunks, system instruction are the 3 most important parts of the context builder (prompt assembly).
 - RAG's take multiple types of data - text, images (text extracted by OCR), videos (text extracted from audio transcripts) and many other types of data.
 
-## Notion document - https://www.notion.so/RAG-Pipeline-with-LangChain-Google-Gemini-and-Agents-2e514dc3f1ec8051835cfb236da43fa9
-
-## Colab Notebook Copy created and added to drive
+## Colab Notebook Copy created and added to drive - https://drive.google.com/drive/folders/15Xr-mQ28kQCGTbYKLT_xPbYDqGjffFF4?usp=sharing
 
 # Day 3 -> AI Agents and Automation
 
@@ -60,7 +58,6 @@
 
 - Create a real time interaction 3D particle system with Three.js
 - Requirements: -
-
   - Detect both hands through the camera -> control particle scaling + expansion by hand tension and closing
   - Include a panel to switch templates: hearts/flowers/saturn/fireworks
   - Add a color selector to change the particle colors
